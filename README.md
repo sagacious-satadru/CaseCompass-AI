@@ -133,10 +133,10 @@ For inquiries or support, please contact [Satadru Bhowmik](fcb.satadrud10s@gmail
 
 # 📷 Screenshots
 
-![Home Page](./CaseCompassAI/screenshots/Screenshot1_of_Legal_Semantic_Search_app.jpeg)
+![Home Page](./screenshots/Screenshot1_of_Legal_Semantic_Search_app.jpeg)
 *The intuitive home page welcoming users to a powerful legal search experience.*
 
-![Search Results](./CaseCompassAI/screenshots/Recording1_of_Legal_Semantic_Search_app.mp4)
+![Search Results](./screenshots/Recording1_of_Legal_Semantic_Search_app.mp4)
 *Semantic search results displaying the most relevant legal documents.*
 
 ---
