@@ -166,7 +166,7 @@ For inquiries or support, please contact [Satadru Bhowmik](fcb.satadrud10s@gmail
 
 *An innovative software engineer with a passion for leveraging cutting-edge technologies to solve complex problems. Demonstrated expertise in full-stack development, AI integration, and scalable architecture design.*
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/sagacious-satadru)
 
 ---
 
