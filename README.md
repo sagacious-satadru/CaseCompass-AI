@@ -143,8 +143,8 @@ For inquiries or support, please contact [Satadru Bhowmik](fcb.satadrud10s@gmail
 
 ## 🌐 Links
 
-- **Project Repository**: [GitHub](https://github.com/yourusername/CaseCompassAI)
-- **Live Demo**: [CaseCompass AI Demo](https://casecompassai.example.com)
+- **Project Repository**: [GitHub](https://github.com/sagacious-satadru/CaseCompassAI)
+- **Live Demo**: [CaseCompass AI Demo](./screenshots/Recording1_of_Legal_Semantic_Search_app.mp4)
 
 ---
 
