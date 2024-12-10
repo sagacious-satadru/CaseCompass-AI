@@ -121,7 +121,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-For inquiries or support, please contact [Your Name](mailto:your.email@example.com).
+For inquiries or support, please contact [Satadru Bhowmik](fcb.satadrud10s@gmail.com).
 
 ---
 
@@ -129,14 +129,14 @@ For inquiries or support, please contact [Your Name](mailto:your.email@example.c
 
 ---
 
-[![Made with Love](https://img.shields.io/badge/Made_with-Love-red.svg)](https://github.com/yourusername/CaseCompassAI)
+[![Made with Love](https://img.shields.io/badge/Made_with-Love-red.svg)](https://github.com/sagacious-satadru/CaseCompassAI)
 
 # 📷 Screenshots
 
-![Home Page](./img/homepage.png)
+![Home Page](./CaseCompassAI/screenshots/Screenshot1_of_Legal_Semantic_Search_app.jpeg)
 *The intuitive home page welcoming users to a powerful legal search experience.*
 
-![Search Results](./img/search-results.png)
+![Search Results](./CaseCompassAI/screenshots/Recording1_of_Legal_Semantic_Search_app.mp4)
 *Semantic search results displaying the most relevant legal documents.*
 
 ---
